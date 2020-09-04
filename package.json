@@ -25,6 +25,6 @@
     "webpack-dev-server": "^3.10.1"
   },
   "dependencies": {
-    "node-sass": "^4.13.0"
+    "node-sass": "^4.13.1"
   }
 }
